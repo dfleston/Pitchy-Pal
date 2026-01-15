@@ -1,0 +1,7 @@
+{
+  "name": "Pitchy Pal - Singing Adventure",
+  "description": "A kid-friendly application where a floating magical ball moves up and down based on the pitch of your voice. Sing high to fly to the stars, and hum low to dive into the deep blue sea!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
